@@ -18,7 +18,7 @@ public class ENums {
                 resArr[i+j] = arr2[j];
                 flag = 0;
                 j++;
-            }
+            } 
         }
         return resArr;
     }
